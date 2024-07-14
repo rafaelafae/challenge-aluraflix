@@ -10,6 +10,6 @@ HTML: Estruturação da página.
 CSS: Estilização e layout responsivo.
 JavaScript (React): Interatividade e gerenciamento de estado.
 
-[Demo do projeto]()
+[Demo do projeto](https://challenge-aluraflix-dun.vercel.app/)
 
-![Capa projeto]()
+![Capa projeto](https://github.com/rafaelafae/challenge-aluraflix/blob/main/public/capa-projeto.png)
